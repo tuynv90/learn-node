@@ -1,17 +1,17 @@
 {
-  "name": "node1",
-  "version": "1.0.0",
-  "description": "learn node",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "keywords": [
-    "node"
-  ],
-  "author": "tuynv1",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.15.4"
-  }
+    "name": "node1",
+    "version": "1.0.0",
+    "description": "learn node",
+    "main": "server.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "tuynv1",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.4"
+    }
 }
